@@ -1,5 +1,7 @@
+import {Header} from "./components/Header/Header.jsx";
+
 const App = () => {
-  return <h1 className="text-amber-300">Hello Tailwind</h1>
+  return <Header />
 }
 
 export default App
